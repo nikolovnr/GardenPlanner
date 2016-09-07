@@ -1,0 +1,10 @@
+Garden Planner Daily Scum
+Nathalie Desrosiers & Nikolay Nikolov
+
+/////September 7, 2016/////
+Nathalie:
+1- Completed the Garden Planner Proposal.
+2- Create 3 tables and fill them (Plant, Companion, Adversary).
+3- Need help about Git(setting), will see with Nikolay.
+
+Nikolay
