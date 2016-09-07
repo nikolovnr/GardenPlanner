@@ -7,4 +7,7 @@ Nathalie:
 2- Create 3 tables and fill them (Plant, Companion, Adversary).
 3- Need help about Git(setting), will see with Nikolay.
 
-Nikolay
+Nikolay:
+1- Completed DB Diagram.
+2- Add more fields in SeededPlan table - add functionality to track trough time
+3- Still not quite clear which functionalities will be implemented
