@@ -19,3 +19,8 @@ Nathalie:
 1- I found all ? png pictures, croped them and resized them to 100px tall.
 2- I will create a database and fill the tables with data.
 3- All the questions about database and GitHub can be answered by my partner.
+
+Nikolay:
+1- Database is completed and agreed with Nathalie
+2- I will create the main window of the application - put Ribbon
+3- I have some trouble with setup approptiate properties of the ribbon.
