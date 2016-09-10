@@ -37,3 +37,16 @@ Nikolay:
 2- I will start work on window with canvas to draw the garden plan.
 3- I need help on setting up the relative and absolute path for images and other resources of the ribbon components.
 
+
+/////Saturday: September 10, 2016/////
+Nathalie:
+1- We fixed some issues.
+2- I will do the plant ribbon.
+3- I rode the tutorial about the ribbon. If I need help, I'll have to Google.
+
+Nikolay:
+1- 
+2- 
+3- 
+
+ 
