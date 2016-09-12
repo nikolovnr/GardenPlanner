@@ -46,9 +46,9 @@ Nathalie:
 3- I rode the tutorial about the ribbon. If I need help, I'll have to Google.
 
 Nikolay:
-1- 
-2- 
-3- 
+1- I used external library to be able to open child window in main window - resize, create multiple windows.
+2- I will try to put different controls in child window and draw in canvas.
+3- I need help to define XAML file for the child window
 
 
 /////Monday: September 12, 2016/////
@@ -58,8 +58,8 @@ Nathalie:
 3- I will definitely need help about this matter. I will see with my best friend, Google.
 
 Nikolay:
-1- 
-2- 
-3- 
+1- I managet to draw filled rectangles on canvas, save the image on file and show predifined print dialog box.
+2- I will fix some bugs with drawing - screen is not refreshed and drawings stay after resize.
+3- I need help with GitHub SourceTree resolving conflicts.
 
  
