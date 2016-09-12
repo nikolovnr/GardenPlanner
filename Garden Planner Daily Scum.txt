@@ -1,4 +1,4 @@
-Garden Planner Daily Scum
+Garden Planner Daily Scrum
 Nathalie Desrosiers & Nikolay Nikolov
 
 
@@ -44,6 +44,18 @@ Nathalie:
 1- We fixed some issues.
 2- I will do the plant ribbon.
 3- I rode the tutorial about the ribbon. If I need help, I'll have to Google.
+
+Nikolay:
+1- 
+2- 
+3- 
+
+
+/////Monday: September 12, 2016/////
+Nathalie:
+1- I did the plant & beds menus on the ribbon. I started to take care of companion plants since I did not have access to Internet for a while and could do that easily. I started the Login window too.
+2- I will learn how to drag and drop from the ribbon buttons. If time allows it, I will start to use it for one bed size (3x3).
+3- I will definitely need help about this matter. I will see with my best friend, Google.
 
 Nikolay:
 1- 
